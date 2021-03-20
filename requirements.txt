@@ -1,0 +1,4 @@
+docx2python==1.27.1
+docx2txt==0.8
+lxml==4.6.2
+python-docx==0.8.10
